@@ -1,0 +1,33 @@
+body {background: url(https://images.wallpaperscraft.com/image/question_marks_figures_3d_112755_1920x1080.jpg);
+    overflow:  hidden;}
+.btn {
+    width: 90px;
+    height: 90px;
+    background: white;
+    display: inline-block;
+    text-align: center;
+    line-height: 90px;
+    user-select: none;
+}
+
+.btn:hover {
+    background: indianred;
+    color: black;
+}
+
+#calc-wrap {
+    width: 100%;
+    text-align: center;
+
+}
+
+#shape {
+    width: 360px;
+    display: inline-block;
+}
+
+#inputVal {
+    width: 100%;
+    font-size: 32px;
+    resize: none;
+}
